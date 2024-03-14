@@ -1,4 +1,4 @@
-Using the Alphavantage API, this application will track the price of a given stock.
+Using the Alpha Vantage API, this application will track the price of a given stock.
 
 Input Parameters: 
 - Stock symbol
